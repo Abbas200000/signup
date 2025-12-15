@@ -39,6 +39,10 @@
 .policy {
   margin-bottom: var(--secondary-margin);
 }
+.policy input[type="checkbox"] {
+  accent-color: var(--secondary-color); 
+}
+
 .signup {
   background-color: var(--secondary-color);
   color: var(--main-color);
@@ -67,7 +71,7 @@ p {
   height: var(--main-height);
 }
 .with button {
-  background-color: var(--main-color);
+  background-color: white;
   border: none;
   outline: none;
   border: 2px solid var(--main-color);
