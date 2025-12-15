@@ -53,6 +53,7 @@
   border-radius: var(--secondary-margin);
   margin: 15px var(--secondary-margin);
   height: var(--main-height);
+  cursor: pointer;
 }
 .hr {
   margin: var(--main-margin) 0;
@@ -75,6 +76,7 @@ p {
   border: none;
   outline: none;
   border: 2px solid var(--main-color);
+  cursor: pointer;
   border-radius: var(--secondary-margin);
 }
 .last {
